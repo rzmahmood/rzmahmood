@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zoraiz
+- 👋 Hi, I’m Rez
 - 👀 I’m interested in Blockchain Technology
 - 💞️ Currently working as a core blockchain engineer Berachain (@rezbera)
 - 📖 Previously worked at:
